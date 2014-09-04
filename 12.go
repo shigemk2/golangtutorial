@@ -1,3 +1,4 @@
+// もし初期化子が指定されている場合、型を省略できます
 package main
 
 import "fmt"
