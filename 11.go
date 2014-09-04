@@ -7,5 +7,5 @@ var i int
 var c, python, java bool
 
 func main() {
-  fmt.Println(i, c, python, java)
+	fmt.Println(i, c, python, java)
 }
