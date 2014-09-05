@@ -1,3 +1,4 @@
+// 定数は := を使って宣言できません
 package main
 
 import "fmt"
