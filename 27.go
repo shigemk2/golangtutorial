@@ -1,3 +1,4 @@
+// Go言語にはポインタがありますが、ポインタ演算はありません
 package main
 
 import "fmt"
