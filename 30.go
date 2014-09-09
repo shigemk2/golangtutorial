@@ -1,4 +1,5 @@
 //  sliceは、値の配列を参照し、長さ( length )も含まれています。[]T は、 T 型の要素をもつsliceです。
+// ここでいうTは型という意味で、別にどんな型でも構わない
 package main
 
 import "fmt"
