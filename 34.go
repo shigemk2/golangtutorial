@@ -1,3 +1,4 @@
+// for ループの range フォームは、slice や map をひとつずつ反復処理します。
 package main
 
 import "fmt"
