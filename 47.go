@@ -1,3 +1,4 @@
+// 条件のないswitchは、 switch true と書いたことと同じです
 package main
 
 import (
